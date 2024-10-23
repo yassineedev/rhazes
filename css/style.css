@@ -110,12 +110,12 @@ h6,
 }
 
 .btn.btn-primary {
-    border: 0;
+    border: 0 !important;
     color: var(--bs-white);
 }
 
 .btn.btn-primary:hover {
-    background: var(--bs-secondary);
+    background: var(--bs-secondary) !important;
     color: var(--bs-white);
 }
 
@@ -683,5 +683,21 @@ h6,
 /* my edits */
 a {
     text-decoration: unset !important; 
+}
+.agodent-style{
+    color:#ff2d16 !important ;
+    font-weight: bold !important;
+}
+.nav-1{
+    background-color: #ff2d16 !important;
+}
+.text-danger{
+    color: #ff2d16 !important;
+}
+.bg-primary{
+    background-color: #0073c0 !important;
+}
+.btn-primary{
+    background-color: #0073c0 !important;
 }
 /*** Footer End ***/
