@@ -208,7 +208,7 @@ h6,
 
 .dropdown .dropdown-menu a:hover {
     background: var(--bs-secondary);
-    color: var(--bs-primary);
+    color: var(--bs-white);
 }
 
 .navbar .nav-item:hover .dropdown-menu {
@@ -360,7 +360,7 @@ h6,
 }
 
 .about {
-    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(../img/background.jpg);
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(../img/img-for-me/hero-2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
