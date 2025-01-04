@@ -154,11 +154,11 @@ h6,
 }
 
 .topbar .top-link a:hover {
-    background: var(--bs-success) !important;
+    background: #00712d !important;
 }
 
 .topbar .top-link a:hover i {
-    color: var(--bs-success) !important;
+    color: #00712d !important;
 }
 /*** Topbar End ***/
 
@@ -370,7 +370,7 @@ h6,
 
 /*** service Start ***/
 .service {
-    background: linear-gradient(rgba(1, 102, 179, 0.1), rgba(238, 29, 35, 0.1));
+    background: linear-gradient(rgba(1, 102, 179, 0.1), rgba(37, 92, 40, 0.1));
 }
 
 .service .service-item {
@@ -396,11 +396,11 @@ h6,
 }
 
 .service-item:hover {
-    border: 1px solid var(--bs-danger) !important;
+    border: 1px solid var(--bs-primary) !important;
 }
 
 .service-item:hover .service-content::after {
-    background: var(--bs-danger);
+    background: var(--bs-primary);
     width: 100%;
     opacity: 1;
     z-index: 1;
@@ -699,5 +699,11 @@ a {
 }
 .btn-primary{
     background-color: #0073c0 !important;
+}
+.bg-success{
+    background-color: #00712D !important;
+}
+.btn-success{
+    background-color: #00712d !important;
 }
 /*** Footer End ***/

@@ -32,7 +32,7 @@
     --bs-gray-900: #212529;
     --bs-primary: #1354AF;
     --bs-secondary: #ee1d23;
-    --bs-success: #0C833E;
+    --bs-success: #00712D !important;
     --bs-info: #0dcaf0;
     --bs-warning: #ffc107;
     --bs-danger: #dc3545;
